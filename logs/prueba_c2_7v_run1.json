@@ -1,0 +1,48 @@
+{
+  "timestamp": "2026-09-28T01:00:48.507508+00:00",
+  "modelo": "google/gemini-3.8-flash",
+  "prompt_archivo": "/media/joblak/41112ade-da41-4393-a9fb-53dc958b2f9e/multimedia/herramientas_extraccion/protocolos_investigacion/henoch/prompts/wrapper_tlacuilo.txt",
+  "prompt_hash": "52d023716ec96281b1d5adb95ce7f3321bc206eb51ecdc62973bf3999c16d1c8",
+  "system_hash": "2bc07c27ae182152cf2f0172733d3ec0a0954ea84d84b804cb517121f1ff0989",
+  "imagen": "/media/joblak/41112ade-da41-4393-a9fb-53dc958b2f9e/multimedia/herramientas_extraccion/protocolos_investigacion/henoch/imagenes/folio_7v.png",
+  "imagen_meta": {
+    "original_size": [
+      4699,
+      6072
+    ],
+    "sent_size": [
+      1935,
+      2500
+    ],
+    "bytes_jpeg": 1171818
+  },
+  "salida": "/media/joblak/41112ade-da41-4393-a9fb-53dc958b2f9e/multimedia/herramientas_extraccion/protocolos_investigacion/henoch/datos/prueba_c2_7v_run1.txt",
+  "salida_hash": "de3b956fad90a6c9e212a6122b30c4fc9062db19f2f8badfa73f3c126511c66e",
+  "temperature": 0.2,
+  "max_tokens": 8192,
+  "usage": {
+    "prompt_tokens": 5450,
+    "completion_tokens": 8188,
+    "total_tokens": 13638,
+    "cost": 0.0347925,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0347925,
+      "upstream_inference_prompt_cost": 0.0040875,
+      "upstream_inference_completions_cost": 0.030705
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 7864,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "zdr": true,
+  "data_collection": "deny"
+}

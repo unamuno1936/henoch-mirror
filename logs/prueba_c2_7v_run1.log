@@ -1,0 +1,7 @@
+Preparando imagen folio_7v.png...
+  Original: [4699, 6072]
+  Enviado:  [1935, 2500] (1171818 bytes JPEG)
+[2026-09-28T01:00:48.507508+00:00] Llamando a google/gemini-3.8-flash...
+Escrito: /media/joblak/41112ade-da41-4393-a9fb-53dc958b2f9e/multimedia/herramientas_extraccion/protocolos_investigacion/henoch/datos/prueba_c2_7v_run1.txt
+Log:     /media/joblak/41112ade-da41-4393-a9fb-53dc958b2f9e/multimedia/herramientas_extraccion/protocolos_investigacion/henoch/logs/prueba_c2_7v_run1.json
+Tokens:  {'prompt_tokens': 5450, 'completion_tokens': 8188, 'total_tokens': 13638, 'cost': 0.0347925, 'is_byok': False, 'prompt_tokens_details': {'cached_tokens': 0, 'cache_write_tokens': 0, 'audio_tokens': 0, 'video_tokens': 0}, 'cost_details': {'upstream_inference_cost': 0.0347925, 'upstream_inference_prompt_cost': 0.0040875, 'upstream_inference_completions_cost': 0.030705}, 'completion_tokens_details': {'reasoning_tokens': 7864, 'image_tokens': 0, 'audio_tokens': 0}}

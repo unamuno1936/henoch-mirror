@@ -1,0 +1,53 @@
+{
+  "timestamp": "2026-09-27T04:57:14.750834+00:00",
+  "archivos": {
+    "config/paginas_candidatas.txt": "6121e449ae2c7ab0d4c5dde0bc086c4bf1b6f4667c5d0094f6213b6bc8d18839",
+    "config/paginas_seleccionadas.txt": "281cae6c6d6c0b64e17a629e5d436b59852ff914c7902f99980e4c18721818f2",
+    "config/paginas_canvas_map.txt": "c1438d5e80bbca47515597540bc2bfeff6137a10234867d4e6dbda7c21c37317",
+    "config/criterios_preregistrados.md": "2c727edf58717a0e945b5f408f689940a4dcd10ced06f25eb3e4033936de0127",
+    "config/plan_analisis_julia.md": "a544ddd85ee8145b4eb52cb74b570e95814b487e6449cae47e6d395b489eb911",
+    "prompts/generico.txt": "18e778e4f736deaa1a2ee6bb0b2b9964720ff8d858802dabf3e0e0ffbb1ca5f3",
+    "prompts/wrapper_tlacuilo.txt": "1b5f5ed46a071a2926429a57ed45742b1dda07d88b6003871138c655888afe6a"
+  },
+  "directorios": {
+    "ground_truth": {},
+    "scripts": {
+      "scripts/00_generar_hashes.py": "4fec08ddb137784bb11738ed87258b083421e5c94ccf8ede3a9eb3571e55dcbb",
+      "scripts/00_instalar.sh": "3c92aa7a3ae42e9f96353cb5de598b40256969c449d7353fdee68b1e3f91ae15",
+      "scripts/01_seleccionar_paginas.py": "849b989e375295a4cacea6b910c40b2d21d9017318f157020a773b8f088454e5",
+      "scripts/01b_generar_candidatas_desde_manifest.py": "12ede9c4846993749f77ec1487742b6b64dc73c1fab2da7ce3cc24cd4b657b0f",
+      "scripts/02_metricas_cer_wer.py": "224bcf40828539dac413a57f51b6000bdc94b490a7aae4336933129e7247cd2a",
+      "scripts/03_alucinaciones.py": "c4254f6df0feded552ca6b91fa8634a2ced638d2c2099f43290e97cb946796dc",
+      "scripts/04_consistencia.py": "eebd9f8da155e45154a10ac106115bff27bca512b054cf3160010f7c007f5d41",
+      "scripts/05_hashes.py": "9212b6f2cb4bc3ae593da55fa9448fb1037b72dc677d50fef28b0dfadd6fc3c9",
+      "scripts/05_verificar_hashes.py": "665e4ca5d75467f397f2dcaca286f589bf1bbe819d5f3025854dcbc2c39cd640",
+      "scripts/06_llamar_openrouter.py": "ca58e04e3b60465d950c26ba593956f9a62d91bdd79cce15fa99588ba684aa59",
+      "scripts/06_openrouter_client.py": "037ea079daf3e792a35525a00a5a44b2d1ec338a7ef29d0133285accc86341b3",
+      "scripts/07_descargar_iiif.py": "f327c6cb64a096fd94cd2e62d3cab3888fe7586dcd40a43cff271ba4b2073dfd",
+      "scripts/07_probar_iiif.py": "e813bbaa1eab6abd499b5305337f46a43a480d59aa41512bdde5c21005a8fcc8",
+      "scripts/08_evaluar_imagenes.py": "48f507cfe393d33e56e7b228f95ea45239a8a19aed286aca760705e692e4cde5",
+      "scripts/09_probar_calidades_iiif.py": "e6d3ba1e2c46f82057846b86f7ff209e86c90f87080cb59e26e8b0e48a25964e",
+      "scripts/10_descargar_folios_png.py": "b6642bd0c2dc3e59c25d34df67f60bf69c8d3b483fdb5d61c2edb8d6f1e83e44",
+      "scripts/11_ejecutar_experimento.py": "c40f88ebfd0471566b87d437c50ad84d51568488f3689a9c1f7efd0823061315",
+      "scripts/14_metricas_dialogo.py": "aebce42400a6e38a7d7a947eeaf4fcb9fed3f8ebbef8928fe5c03e84fb899a0a"
+    },
+    "datos": {},
+    "imagenes": {
+      "imagenes/folio_17v.png": "e72af827eb975332bf94f1034bf59fac7a2f0e85b55ac09dc5dc0d2d8f54d585",
+      "imagenes/folio_40v.png": "3bfade9f5b305bf2704cac8722ed45dac3117c7b91cc539d23f6abe01c352276",
+      "imagenes/folio_4r.png": "34c9525c5e86a247e030666bfd91d206fa5c5c952d338b1a031b3730187bac7f",
+      "imagenes/folio_5v.png": "229a779a4ad6e8b4770c2bad8ea2ef5ed68848bf667d37e0ab00bd90779f7c69",
+      "imagenes/folio_7v.png": "4683e03f4d2120c6b189ff8eb4606dad910ef83be2b64c932fc33e755e7201ff",
+      "imagenes/iiif_manifest.json": "0900ded6815770dd000d0bc11a5e488aaafb42f16fc22990220ebe3f1a3bc5ba",
+      "imagenes/iiif_muestra/f19.jpg": "788c4ada4beb506532f54a4d63d5ba3d2ec21f373726537fa9825d24f2deb04f",
+      "imagenes/iiif_muestra/f19_bitonal_png.png": "9e81749fdff2daa6370f8848ac48b86b4f485f52ca5eef5105e4e50babc224d1",
+      "imagenes/iiif_muestra/f19_color_jpg.jpg": "788c4ada4beb506532f54a4d63d5ba3d2ec21f373726537fa9825d24f2deb04f",
+      "imagenes/iiif_muestra/f19_default_jpg.jpg": "788c4ada4beb506532f54a4d63d5ba3d2ec21f373726537fa9825d24f2deb04f",
+      "imagenes/iiif_muestra/f19_gray_jpg.jpg": "ed849fe7c7e967465d477ab0cb4613ad8ad46545e646bdfdc2daa230da91a771",
+      "imagenes/iiif_muestra/f19_native_jpg.jpg": "788c4ada4beb506532f54a4d63d5ba3d2ec21f373726537fa9825d24f2deb04f",
+      "imagenes/iiif_muestra/f19_native_png.png": "9e81749fdff2daa6370f8848ac48b86b4f485f52ca5eef5105e4e50babc224d1",
+      "imagenes/iiif_muestra/f19_reducido_1200.jpg": "f674a6a45e85a199c4c004e2d7e5bd31bccb282c38329aa52b539cfd791cd5df",
+      "imagenes/iiif_test_f19_full.jpg": "788c4ada4beb506532f54a4d63d5ba3d2ec21f373726537fa9825d24f2deb04f"
+    }
+  }
+}

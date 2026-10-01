@@ -1,0 +1,48 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+entorno/
+
+# Secretos
+.env
+*.key
+*.pem
+
+# Binarios pesados (cualquier extensión pesada)
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.epub
+*.mobi
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+*.mp3
+*.mp4
+*.wav
+*.jsonl
+
+# Imágenes IIIF
+imagenes/*.png
+imagenes_rylands/*.png
+
+# Temporales
+*.tmp
+*.bak
+*.bak_*
+*~
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor
+.vscode/
+.idea/
+*.swp

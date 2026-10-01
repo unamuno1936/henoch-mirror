@@ -1,0 +1,16 @@
+ is in the margin).
+Wait, look at the bottom of Col 1:
+Let's count lines in Col 1:
+Line 1: እምድኅረ፡ዓመት።ክፍል፡፩።ወ
+Line 2: ዳግመ፡ጠየቁ፡መዋዕለ፡ሐጋ
+Line 3: ይ፡ከመ፡ኀየ፡ፀሐይ፡ላዕሌሃ፡በ (ORANGE)
+Line 4: ቅድሜሃ።ወአንትሙሰ፡ተኃ (ORANGE)
+Line 5: ሥሡ፡ምጽላለ፡ወጽላሎተ፡
+Line 6: በእንተ፡ዋዕየ፡ፀሐይ፡ወምድ
+Line 7: ርኒ፡ትውዒ፡እሙቁተ፡ሐፈር፡
+Line 8: ወአንትሙሰ፡ኢትክሉ፡ኪየጸ
+Line 9: ታ፡ለምድር፡ወኢኩሎተ፡በእን
+Line 10: ተ፡ዋዕይ።ክፍል፡፪፡ጠየቁ፡አዕ
+Line 11: ዕፀወ፡በሐመልማለ፡አቍጽል (Wait, is this black? Yes!)
+Line 12: ይትከደኑ፡ ወይፈርዩ፡ ወለበው፡ (Wait, no, look at the orange in the middle!)
+Wait, let's look at the orange lines in Col 

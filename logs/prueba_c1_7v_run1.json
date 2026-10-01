@@ -1,0 +1,48 @@
+{
+  "timestamp": "2026-09-27T05:02:55.543605+00:00",
+  "modelo": "google/gemini-3.8-flash",
+  "prompt_archivo": "/media/joblak/41112ade-da41-4393-a9fb-53dc958b2f9e/multimedia/herramientas_extraccion/protocolos_investigacion/henoch/prompts/generico.txt",
+  "prompt_hash": "aeacea5db2274d8d4e19c30da796ff303666a22509c2641c5b7eb7332992f5c2",
+  "system_hash": null,
+  "imagen": "/media/joblak/41112ade-da41-4393-a9fb-53dc958b2f9e/multimedia/herramientas_extraccion/protocolos_investigacion/henoch/imagenes/folio_7v.png",
+  "imagen_meta": {
+    "original_size": [
+      4699,
+      6072
+    ],
+    "sent_size": [
+      1935,
+      2500
+    ],
+    "bytes_jpeg": 1171818
+  },
+  "salida": "/media/joblak/41112ade-da41-4393-a9fb-53dc958b2f9e/multimedia/herramientas_extraccion/protocolos_investigacion/henoch/datos/prueba_c1_7v_run1.txt",
+  "salida_hash": "df76e74161c894ff1c9aae2a1bf66b5e2aef49666758834a38da0eb237319e35",
+  "temperature": 0.2,
+  "max_tokens": 8192,
+  "usage": {
+    "prompt_tokens": 1267,
+    "completion_tokens": 5700,
+    "total_tokens": 6967,
+    "cost": 0.02232525,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.02232525,
+      "upstream_inference_prompt_cost": 0.00095025,
+      "upstream_inference_completions_cost": 0.021375
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 3226,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "zdr": true,
+  "data_collection": "deny"
+}

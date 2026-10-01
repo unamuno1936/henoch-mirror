@@ -1,0 +1,63 @@
+{
+  "timestamp_inicio": "2026-09-27T02:18:46.062691+00:00",
+  "timestamp_fin": "2026-09-27T02:26:08.466083+00:00",
+  "total": 5,
+  "exitosos": 5,
+  "resultados": [
+    {
+      "folio": "7v",
+      "canvas": "f28",
+      "formato": "png",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108488806/f28/full/full/0/native.png",
+      "timestamp": "2026-09-27T02:18:46.062691+00:00",
+      "archivo": "/media/joblak/41112ade-da41-4393-a9fb-53dc958b2f9e/multimedia/herramientas_extraccion/protocolos_investigacion/henoch/imagenes/folio_7v.png",
+      "bytes": 30155296,
+      "mb": 28.76,
+      "sha256": "4683e03f4d2120c6b189ff8eb4606dad910ef83be2b64c932fc33e755e7201ff"
+    },
+    {
+      "folio": "5v",
+      "canvas": "f24",
+      "formato": "png",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108488806/f24/full/full/0/native.png",
+      "timestamp": "2026-09-27T02:20:13.467800+00:00",
+      "archivo": "/media/joblak/41112ade-da41-4393-a9fb-53dc958b2f9e/multimedia/herramientas_extraccion/protocolos_investigacion/henoch/imagenes/folio_5v.png",
+      "bytes": 31914399,
+      "mb": 30.44,
+      "sha256": "229a779a4ad6e8b4770c2bad8ea2ef5ed68848bf667d37e0ab00bd90779f7c69"
+    },
+    {
+      "folio": "4r",
+      "canvas": "f21",
+      "formato": "png",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108488806/f21/full/full/0/native.png",
+      "timestamp": "2026-09-27T02:21:47.515795+00:00",
+      "archivo": "/media/joblak/41112ade-da41-4393-a9fb-53dc958b2f9e/multimedia/herramientas_extraccion/protocolos_investigacion/henoch/imagenes/folio_4r.png",
+      "bytes": 39524843,
+      "mb": 37.69,
+      "sha256": "34c9525c5e86a247e030666bfd91d206fa5c5c952d338b1a031b3730187bac7f"
+    },
+    {
+      "folio": "40v",
+      "canvas": "f94",
+      "formato": "png",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108488806/f94/full/full/0/native.png",
+      "timestamp": "2026-09-27T02:23:28.261149+00:00",
+      "archivo": "/media/joblak/41112ade-da41-4393-a9fb-53dc958b2f9e/multimedia/herramientas_extraccion/protocolos_investigacion/henoch/imagenes/folio_40v.png",
+      "bytes": 29795669,
+      "mb": 28.42,
+      "sha256": "3bfade9f5b305bf2704cac8722ed45dac3117c7b91cc539d23f6abe01c352276"
+    },
+    {
+      "folio": "17v",
+      "canvas": "f48",
+      "formato": "png",
+      "url": "https://gallica.bnf.fr/iiif/ark:/12148/btv1b108488806/f48/full/full/0/native.png",
+      "timestamp": "2026-09-27T02:24:50.495811+00:00",
+      "archivo": "/media/joblak/41112ade-da41-4393-a9fb-53dc958b2f9e/multimedia/herramientas_extraccion/protocolos_investigacion/henoch/imagenes/folio_17v.png",
+      "bytes": 29882824,
+      "mb": 28.5,
+      "sha256": "e72af827eb975332bf94f1034bf59fac7a2f0e85b55ac09dc5dc0d2d8f54d585"
+    }
+  ]
+}

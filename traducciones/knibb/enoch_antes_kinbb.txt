@@ -1,0 +1,159 @@
+
+
+The first edition of the Ethiopic text of Enoch, published by
+R. Laurence in 1838,* consisted of a transcript of one of the manu-
+scripts brought to Europe by Bruce, namely Bodl 4; Laurence
+had earlier published an English translation of Enoch based on the
+same manuscript.' During the course of the nineteenth century
+many more manuscripts of Enoch were brought to Europe, but
+when, in 1851, Dillmann issued the first critical edition of the text,*
+he was still only able to make use of five (Bodl 4, Bodl 5, Frankfurt
+MS., Curzon 55, and Curzon 56). Despite this, his edition (to-
+gether with the German translation which he published in 1 8 5 3 ) '
+remains of considerable value.
+A fresh impetus to the study of the text was provided by the dis-
+covery at Akhmim in the winter of 1886/7, and the publication in
+1892, of a manuscript containing a Greek version of Enoch 1 - 3 2 , ' °
+and the years between 1892 and 1 9 1 2 were marked by a not in-
+considerable concern with the text of Enoch. Dillmann himself
+published an article devoted to the Akhmim manuscript" in which
+he gave also some collations of three Ethiopic manuscripts in the
+Abbadian collection;'^ this article is still of considerable value and
+interest, although in one or two cases Dillmann was misled by the
+somewhat unsatisfactory initial publication of the Greek manu-
+script. R. H. Charles, who had already been working on the text of
+Enoch, was able to use the Akhmim manuscript in the English
+translation of Enoch which he published in 1893 ;'3 for this trans-
+lation Charles made use not only of the five Ethiopic manuscripts
+which had been available to Dillmann in 1851, but also of nine
+other manuscripts which had in the meantime been acquired by the
+British Museum (BM Add. 24185, BM 485, BM 484, BM 486,
+BM 490, BM Add. 24990, BM 491, BM 492, and BM 499). Charles
+argued that B M 485 and (to a lesser extent) BM 491 represented
+a text somewhat older than that found in the five manuscripts
+used by Dillmann or in the other British Museum manuscripts,
+and he accordingly based his translation largely on BM 485.
+A second, much revised, edition of this translation appeared in
+1912.''* Besides this English translation of Enoch, German transla-
+tions were pubHshed by Beer in and Flemming in 1901,'*
+while a French translation was published by Martin in 1906. "7 But
+perhaps more important from our immediate point of view was
+the publication of two editions of the Ethiopic text, by Flenmiing
+in 1902"* and by Charles in i9o6.'9
+Flemming knew of twenty-six Ethiopic manuscripts of Enoch,
+and made direct use of fourteen of these for both his edition and
+his translation. More precisely, he himself collated nine manu-
+scripts (BM 485, B M 491, Ryl, Berl, Abb 35, Abb 55, Abb 99,
+Abb 197, and Munich ^o),^ but took over from Dillmann's text-
+edition of 1851 the latter's collations of Bodl 4, Bodl 5, Frankfurt
+MS., Curzon 55, and Curzon 56. Flenuning made only sparing use
+of the collations of B M Add. 24185, BM 484, B M 486, BM 490,
+BM Add. 24990, BM 492, and BM 499 which had been given by
+Charles in his translation of 1893, on the grounds that these manu-
+scripts contained a text which agreed essentially with that of the
+five manuscripts used by Dillmann in his text-edition of 1851. For
+the same reason he made no use at all of Abb 16, Abb 30, Vat 7 1 ,
+Paris 1 1 4 , and Paris 32.^' Flemming rightly recognized that the
+Ethiopic manuscripts of Enoch fall into two groups. Group I con-
+sisting of the older manuscripts BM 485, Berl, Abb 35, and Abb
+55, together with BM 491, and Group II consisting of all the other
+manuscripts." Flemming noted that the readings of Group I
+frequently agree with the Greek against those of Group I I , and
+based his edition and translation on the Group I manuscripts; like
+Charles, he regarded BM 485 as the most important and best
+manuscript. Flemming's collations of B M 485, B M 491, and
+Berl are, as Charles indicates,^^ not entirely accurate, but, apart
+from this, Flemming's text-edition and translation are in many
+ways the most convenient and helpful of the tools hitherto
+available for the study of Enoch, since Flemming's judgement on
+textual matters was often more sensible than that of Charles.
+The major difference between the editions of Flemming and
+Charles is that the latter provides a larger number of textual
+variants than the former. This increase is partly, but not entirely,
+the result of the use of manuscripts ignored by, or unknown to,
+Flemming. In fact, Charles knew of twenty-eight manuscripts of
+Enoch, and made direct use of twenty-two.^ He himself collated
+sixteen manuscripts (BM Add. 24185, BM 485, BM 484, BM 486,
+BM 490, BM Add. 24990, BM 491, BM 492, BM 499, Berl, Abb
+35, Abb 55, Vat 7 1 , Munich 30, Garrett MS., and Westenholz
+MS.), but, like Flemming, took over from Dillmann's text-edition
+of 1851 Dillmann's collations of Bodl 4, Bodl 5, Frankfurt MS.,
+Curzon 55, and Curzon ^6;^^ he likewise took over from Flemming
+the latter's collations of Ryl (which, however, he used only
+sparingly). In addition to the evidence which Charles gives from
+these twenty-two manuscripts he occasionally also gives readings
+from two other manuscripts, Abb 99 and Abb 197; Charles
+apparently took these readings from Flemming's text-edition.
+Charles thus left completely out of account only four manu-
+scripts: Abb 16, Abb 30, Paris 114, and Paris 32. These four were
+also left out of account by Flemming, and in view of the indica-
+tions of the age and character of the manuscripts there can be little
+question that Charles and Flemming were right to ignore them.
+Charles divided his manuscripts into two groups, exactly as
+Flemming had done, but designated the groups alpha and beta.
+Charles's alpha group corresponds exactly to Flemming's Group I
+(viz. BM 485, Berl, Abb 35, Abb 55, together with BM 491), but
+Charles's beta group is somewhat larger than Flemming's Group
+II, consisting of seventeen manuscripts, as opposed to nine.27
+These seventeen manuscripts are: Bodl 4, Bodl 5, Frankfurt MS.,
+Curzon 55, Curzon 56 (i.e. the manuscripts used by Dillmann),
+plus BM Add. 24185, BM 484, BM 486, BM 490, BM Add.
+24990, BM 492, BM 499, Ryl, Vat 7 1 , Munich 30, Garrett MS.,
+and Westenholz MS.^* Again like Flemming, Charles thought that
+the manuscripts of his alpha group contained an older and better-
+text-type than that to be found in the manuscripts of his beta group,
+and in so far as this was possible, he made BM 485 the basis of his
+text-edition and translation. Two other views held by Charles
+should perhaps be noticed here: ( i ) Charles assumed that the
+Ethiopic version of Enoch was a translation of the Greek version;
+(2) so far as the Greek version was concerned, Charles argued that
+the text contained in the excerpts in Syncellus was more original
+than that of the Akhmim manuscript.
+Charles's work on Enoch, as represented by his text-edition of
+1906 and the second edition of his translation of 1912, marked
+a definite turning-point in the study of the text of Enoch. Charles
+incorporated into his writings the results of all previous study of
+Enoch, while the views he held about the text, though presented
+by him in a somewhat extreme form, were by and large shared by
+all those who worked on Enoch at that time. Charles's text-edition
+contains the greatest amount of information hitherto available for
+the study of the Ethiopic text of Enoch, and certainly from this
+point of view his edition is superior to that of Flemming. Further-
+more, his collations—although there are inevitably misprints in
+his edition—seem for the most part to be accurate.
+On the negative side, it should perhaps be pointed out that a
+fair proportion of the variants which Charles gives are of a purely
+orthographic character, and it may be questioned whether variants
+of this type should stand in the apparatus. Again, the overwhelm-
+ing mass of information provided by Charles and the manner in
+which it is organized sometimes make the use and interpretation
+of his evidence difficult. Despite this his text-edition is of consider-
+able importance, and provides a very valuable tool for the study of
+Enoch. In any case, since Charles there has been neither a new
+edition of the Ethiopic text of Enoch nor a new translation, and
+while there have been various studies dealing with particular aspects
+of the text of this book, as well as various relevant manuscript dis-
+coveries, there has been no comprehensive re-examination of the
+Ethiopic text.
+There does, however, appear now to be a need for a new
+edition and translation of the Ethiopic text of Enoch, and for a
+reconsideration of the textual problems connected with the book,
+and this for two reasons. On the one hand, since the time of Charles
+the discovery has occurred both of the Qumrdn Aramaic fragments
+of Enoch^9 and of the Chester Beatty-Michigan papyrus contain-
+ing a Greek version of Enoch 97. 6-107. 3.3° In addition E.
+Ullendorff recently acquired a hitherto unknown Ethiopic manu-
+script of Enoch, and several other Ethiopic manuscripts of Enoch
+have also come to light. On the other hand, even on the evidence
+available to Charles, Charles's views about the text of Enoch seem
+now to call for some modification. My intention, therefore, in this
+work is to provide a new edition (volume i) and translation
+(volume 2) of the Ethiopic text of Enoch in the light of the Aramaic
+and Greek evidence now available. The edition is based on Rylands
+Ethiopic MS. 23 (Ryl), and the reasons for the choice of this manu-
+script as the base-text are discussed below (see p. 32 ff.). My
+more immediate aim in this Introduction is to provide a com-
+prehensive survey of the Aramaic, Greek, and Ethiopic evidence
+currently available for the text of Enoch (Sections 2-4) and a dis-
+cussion of the relationship between the Ethiopic version of Enoch
+and the underlying version(s)

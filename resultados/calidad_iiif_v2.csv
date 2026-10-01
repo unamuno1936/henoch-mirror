@@ -1,0 +1,9 @@
+archivo,ancho_px,alto_px,megapixeles,aspecto,formato,modo,peso_kb,nitidez,frac_blancos
+f19.jpg,4767,6064,28.91,0.786,JPEG,RGB,2923.6,312.7,0.001
+f19_bitonal_png.png,4767,6064,28.91,0.786,PNG,RGB,33777.1,320.8,0.001
+f19_color_jpg.jpg,4767,6064,28.91,0.786,JPEG,RGB,2923.6,312.7,0.001
+f19_default_jpg.jpg,4767,6064,28.91,0.786,JPEG,RGB,2923.6,312.7,0.001
+f19_gray_jpg.jpg,4767,6064,28.91,0.786,JPEG,L,2769.0,316.2,0.001
+f19_native_jpg.jpg,4767,6064,28.91,0.786,JPEG,RGB,2923.6,312.7,0.001
+f19_native_png.png,4767,6064,28.91,0.786,PNG,RGB,33777.1,320.8,0.001
+f19_reducido_1200.jpg,943,1200,1.13,0.786,JPEG,RGB,316.2,1245.6,0.001
