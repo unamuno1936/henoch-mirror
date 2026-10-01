@@ -1,3 +1,5 @@
+[🇪🇸 Español](README.es.md) | [🇬🇧 English](README.en.md)
+
 # Book of Enoch / Tlacuilo
 
 ## 📖 What this is
