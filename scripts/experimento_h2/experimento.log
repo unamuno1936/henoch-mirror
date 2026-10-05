@@ -1,0 +1,63 @@
+2026-10-04 01:24:27,232 [INFO] Lote nuevo: /media/joblak/41112ade-da41-4393-a9fb-53dc958b2f9e/multimedia/herramientas_extraccion/protocolos_investigacion/henoch/scripts/experimento_h2/salidas/lote_20261004_072427
+2026-10-04 01:24:27,232 [INFO] [1/30] f19__gemini38flash__simple  modelo=google/gemini-3.8-flash
+2026-10-04 01:25:10,100 [INFO]   ✓ 4746 caracteres — 42.9s
+2026-10-04 01:25:27,907 [INFO] [2/30] f19__gemini38flash__perfil  modelo=google/gemini-3.8-flash
+2026-10-04 01:26:24,029 [INFO]   ✓ 764 caracteres — 56.1s
+2026-10-04 01:26:37,223 [INFO] [3/30] f19__qwen38flash__simple  modelo=qwen/qwen3.8-flash
+2026-10-04 01:28:05,555 [INFO]   ✗ content=None o vacío. reasoning_len=17893 finish_reason=length
+2026-10-04 01:28:24,503 [INFO] [4/30] f19__qwen38flash__perfil  modelo=qwen/qwen3.8-flash
+2026-10-04 01:29:58,444 [INFO]   ✓ 2956 caracteres — 93.9s
+2026-10-04 01:30:10,468 [INFO] [5/30] f19__deepseek41flash__simple  modelo=deepseek/deepseek-v4.1-flash
+2026-10-04 01:31:41,673 [INFO]   ✓ 5224 caracteres — 91.2s
+2026-10-04 01:31:55,635 [INFO] [6/30] f19__deepseek41flash__perfil  modelo=deepseek/deepseek-v4.1-flash
+2026-10-04 01:32:48,331 [INFO]   ✗ content=None o vacío. reasoning_len=16133 finish_reason=length
+2026-10-04 01:33:07,939 [INFO] [7/30] f20__gemini38flash__simple  modelo=google/gemini-3.8-flash
+2026-10-04 01:33:59,000 [INFO]   ✓ 6648 caracteres — 51.1s
+2026-10-04 01:34:14,164 [INFO] [8/30] f20__gemini38flash__perfil  modelo=google/gemini-3.8-flash
+2026-10-04 01:35:15,265 [INFO]   ✓ 10751 caracteres — 61.1s
+2026-10-04 01:35:30,387 [INFO] [9/30] f20__qwen38flash__simple  modelo=qwen/qwen3.8-flash
+2026-10-04 01:37:12,214 [INFO]   ✗ content=None o vacío. reasoning_len=14319 finish_reason=length
+2026-10-04 01:37:28,711 [INFO] [10/30] f20__qwen38flash__perfil  modelo=qwen/qwen3.8-flash
+2026-10-04 01:39:04,657 [INFO]   ✗ content=None o vacío. reasoning_len=8037 finish_reason=length
+2026-10-04 01:39:22,204 [INFO] [11/30] f20__deepseek41flash__simple  modelo=deepseek/deepseek-v4.1-flash
+2026-10-04 01:40:32,087 [INFO]   ✓ 5952 caracteres — 69.9s
+2026-10-04 01:40:48,468 [INFO] [12/30] f20__deepseek41flash__perfil  modelo=deepseek/deepseek-v4.1-flash
+2026-10-04 01:40:55,873 [INFO]   ✓ 3401 caracteres — 7.4s
+2026-10-04 01:41:09,793 [INFO] [13/30] f21__gemini38flash__simple  modelo=google/gemini-3.8-flash
+2026-10-04 01:42:07,910 [INFO]   ✓ 393 caracteres — 58.1s
+2026-10-04 01:42:26,271 [INFO] [14/30] f21__gemini38flash__perfil  modelo=google/gemini-3.8-flash
+2026-10-04 01:43:32,694 [INFO]   ✓ 855 caracteres — 66.4s
+2026-10-04 01:43:48,560 [INFO] [15/30] f21__qwen38flash__simple  modelo=qwen/qwen3.8-flash
+2026-10-04 01:45:28,657 [INFO]   ✗ content=None o vacío. reasoning_len=11805 finish_reason=length
+2026-10-04 01:45:44,199 [INFO] [16/30] f21__qwen38flash__perfil  modelo=qwen/qwen3.8-flash
+2026-10-04 01:47:31,022 [INFO]   ✗ content=None o vacío. reasoning_len=17033 finish_reason=length
+2026-10-04 01:47:46,071 [INFO] [17/30] f21__deepseek41flash__simple  modelo=deepseek/deepseek-v4.1-flash
+2026-10-04 01:48:23,029 [INFO]   ✗ content=None o vacío. reasoning_len=9870 finish_reason=length
+2026-10-04 01:48:33,715 [INFO] [18/30] f21__deepseek41flash__perfil  modelo=deepseek/deepseek-v4.1-flash
+2026-10-04 01:48:40,616 [INFO]   ✓ 3154 caracteres — 6.9s
+2026-10-04 01:48:57,183 [INFO] [19/30] f22__gemini38flash__simple  modelo=google/gemini-3.8-flash
+2026-10-04 01:49:48,671 [INFO]   ✓ 508 caracteres — 51.5s
+2026-10-04 01:50:07,138 [INFO] [20/30] f22__gemini38flash__perfil  modelo=google/gemini-3.8-flash
+2026-10-04 01:51:03,351 [INFO]   ✓ 354 caracteres — 56.2s
+2026-10-04 01:51:19,603 [INFO] [21/30] f22__qwen38flash__simple  modelo=qwen/qwen3.8-flash
+2026-10-04 01:53:02,470 [INFO]   ✗ content=None o vacío. reasoning_len=17567 finish_reason=length
+2026-10-04 01:53:19,831 [INFO] [22/30] f22__qwen38flash__perfil  modelo=qwen/qwen3.8-flash
+2026-10-04 01:54:23,738 [WARNING]   Reintento 1/6 en 9.2s: Response ended prematurely
+2026-10-04 01:56:10,017 [INFO]   ✗ content=None o vacío. reasoning_len=11987 finish_reason=length
+2026-10-04 01:56:28,039 [INFO] [23/30] f22__deepseek41flash__simple  modelo=deepseek/deepseek-v4.1-flash
+2026-10-04 01:57:35,497 [INFO]   ✓ 4389 caracteres — 67.5s
+2026-10-04 01:57:53,859 [INFO] [24/30] f22__deepseek41flash__perfil  modelo=deepseek/deepseek-v4.1-flash
+2026-10-04 01:58:43,262 [INFO]   ✗ content=None o vacío. reasoning_len=13498 finish_reason=length
+2026-10-04 01:58:54,998 [INFO] [25/30] f23__gemini38flash__simple  modelo=google/gemini-3.8-flash
+2026-10-04 01:59:51,030 [INFO]   ✓ 505 caracteres — 56.0s
+2026-10-04 02:00:07,155 [INFO] [26/30] f23__gemini38flash__perfil  modelo=google/gemini-3.8-flash
+2026-10-04 02:01:08,845 [INFO]   ✓ 649 caracteres — 61.7s
+2026-10-04 02:01:25,795 [INFO] [27/30] f23__qwen38flash__simple  modelo=qwen/qwen3.8-flash
+2026-10-04 02:03:06,713 [INFO]   ✗ content=None o vacío. reasoning_len=19103 finish_reason=length
+2026-10-04 02:03:20,399 [INFO] [28/30] f23__qwen38flash__perfil  modelo=qwen/qwen3.8-flash
+2026-10-04 02:04:14,104 [INFO]   ✓ 6012 caracteres — 53.7s
+2026-10-04 02:04:28,427 [INFO] [29/30] f23__deepseek41flash__simple  modelo=deepseek/deepseek-v4.1-flash
+2026-10-04 02:05:52,414 [INFO]   ✓ 5761 caracteres — 84.0s
+2026-10-04 02:06:11,707 [INFO] [30/30] f23__deepseek41flash__perfil  modelo=deepseek/deepseek-v4.1-flash
+2026-10-04 02:07:11,007 [INFO]   ✗ content=None o vacío. reasoning_len=17441 finish_reason=length
+2026-10-04 02:07:24,719 [INFO] Ejecución terminada.

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">172</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bd1aa349-5e06-4c77-8cb6-fb6d2777b7ed</dc:identifier>
+        <dc:title>The Book of Ethiopian Enoch: (Biblical Apocrypha)</dc:title>
+        <dc:creator opf:file-as="Stones, Douglas" opf:role="aut">Douglas Stones</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-02T15:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;The book of Enoch is an apocryphal text that is mentioned in some letters of the New Testament (Jude, Hebrews and 2nd Peter). Until the elaboration of the Vulgate, around the year 400, the first followers of Christ mentioned it openly in their texts and accepted it as real. After the Vulgate it fell into oblivion. However, the book is very interesting and seems real. The book of Enoch has been preserved only in one copy, in its entirety, in Ethiopian, and for this reason it is also called the Ethiopian Enoch. &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Douglas Stones</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B09FH47QS1</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B09FH47QS1</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B09FCHPLTV</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9798470922168</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>KindleUnlimited</dc:subject>
+        <dc:subject>Religion</dc:subject>
+        <dc:subject>Christianity</dc:subject>
+        <dc:subject>Ethiopia</dc:subject>
+        <meta name="calibre:timestamp" content="2026-10-04T04:24:53.671069+00:00"/>
+        <meta name="calibre:title_sort" content="Book of Ethiopian Enoch: (Biblical Apocrypha), The"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Portada" href="Book of Ethiopian Enoch_ (Biblical Apocrypha), The - Douglas Stones.jpg"/>
+    </guide>
+</package>

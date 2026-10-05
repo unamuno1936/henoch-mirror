@@ -1,0 +1,23 @@
+{
+  "completadas": [
+    "f19__deepseek41flash__simple",
+    "f19__gemini38flash__perfil",
+    "f19__gemini38flash__simple",
+    "f19__qwen38flash__perfil",
+    "f20__deepseek41flash__perfil",
+    "f20__deepseek41flash__simple",
+    "f20__gemini38flash__perfil",
+    "f20__gemini38flash__simple",
+    "f21__deepseek41flash__perfil",
+    "f21__gemini38flash__perfil",
+    "f21__gemini38flash__simple",
+    "f22__deepseek41flash__simple",
+    "f22__gemini38flash__perfil",
+    "f22__gemini38flash__simple",
+    "f23__deepseek41flash__simple",
+    "f23__gemini38flash__perfil",
+    "f23__gemini38flash__simple",
+    "f23__qwen38flash__perfil"
+  ],
+  "lote": "/media/joblak/41112ade-da41-4393-a9fb-53dc958b2f9e/multimedia/herramientas_extraccion/protocolos_investigacion/henoch/scripts/experimento_h2/salidas/lote_20261004_072427"
+}
